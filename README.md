@@ -1,3 +1,6 @@
+# Paper
+Towards Efficient and Scalable Sharpness-Aware Minimization-CVPR2022: https://arxiv.org/abs/2203.02714
+
 # Usage
 
 ```python
@@ -37,4 +40,5 @@ for train_index, (samples, targets) in enumerate(loader):
     )
     ...
 ```
+
 
